@@ -79,3 +79,8 @@ oluşma (composite) ilişkisi : bütün parça en yukarda olacak.
 Kişiler adında interface oluşturduğumuzda (user interface) Öğrenci, Öğretmen, Asistan subclasslarına dağılıyor.
 Kişilerde adSoyad String, fakat değer almıyor.
 Öğrencinin "adSoyad" değeri olmak zorunda.
+
+
+
+
+[Sınıf tasarımı örnekleri](https://app.patika.dev/courses/oop/class-diagram-example)
