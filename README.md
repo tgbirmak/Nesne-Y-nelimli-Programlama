@@ -1,5 +1,5 @@
 
-# Nesne yönelimli programlama notları
+# **NESNE YÖNELİMLİ PROGRAMLAMA NOTLARI**
 
 - Objeler: Name, attributes, behaviors -- isim, nitelik, davranış olarak objeler değerlendirilir.
 
@@ -79,6 +79,3 @@ oluşma (composite) ilişkisi : bütün parça en yukarda olacak.
 Kişiler adında interface oluşturduğumuzda (user interface) Öğrenci, Öğretmen, Asistan subclasslarına dağılıyor.
 Kişilerde adSoyad String, fakat değer almıyor.
 Öğrencinin "adSoyad" değeri olmak zorunda.
-
-
-
